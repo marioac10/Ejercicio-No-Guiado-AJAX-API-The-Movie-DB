@@ -1,6 +1,6 @@
 //KEYS
 
-const API_KEY = '6fd76393eacd04ed102f64ec12258cbf',
+const API_KEY = '%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%',
     BASE_URL = 'https://api.themoviedb.org/3',
     API_URL = BASE_URL+'/discover/movie?sort_by=popularity.desc&api_key='+API_KEY,
     urll = 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc',
